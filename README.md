@@ -44,11 +44,9 @@ These findings should be interpreted as **associations rather than causal effect
 - sandwich
 - lmtest
 
-## Repository Contents
+## Repository Note
 
-- **Research paper:** Full paper presenting the motivation, literature, methodology, empirical analysis, results, and conclusions.
-- **R analysis:** Code used for data preparation, descriptive analysis, econometric estimation, robust standard errors, and robustness checks.
-- **Data:** Donor-level data are not publicly shared because of confidentiality considerations.
+This repository provides an overview of the research project, methodology, and analytical approach. The underlying StoveTeam International donor data, full research paper, and R analysis code are not publicly distributed because the project was conducted using non-public organizational data.
 
 ## Author
 
